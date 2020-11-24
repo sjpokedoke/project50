@@ -1,0 +1,17 @@
+body {
+    background-color:lightblue;
+}
+.Main {
+    background-color: rosybrown;
+    text-align: center;
+}
+.Item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
